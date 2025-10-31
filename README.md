@@ -16,6 +16,8 @@ This project demonstrates the implementation of a Library Management System usin
 4. **Advanced SQL Queries**: Develop complex queries to analyze and retrieve specific data.
 
 ## Project Structure
+## 1. Database Setup
+<img width="1101" height="631" alt="library_erd" src="https://github.com/user-attachments/assets/e0df81eb-41ed-4414-9a82-2c37ad3771b7" />
 
 - **Database Creation**: Created a database named `library_db`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
